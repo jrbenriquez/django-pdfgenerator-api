@@ -43,6 +43,8 @@ Quick start
 METHODS
 -------
 
+    from pdfgenerator_api import methods
+
 1. List Template - view_templates()
 
 2. Get Template  - view_template(template_id=<id>)   
