@@ -27,10 +27,17 @@ Quick start
 
 3. Additional options include: [] means default
 
-    PDFGENERATOR_API_BASEPATH                  - if need to override default basepath
-    PDFGENERATOR_API_RETURN_EDIT_UPON_CREATE   - [False]/True. Choose what is returned upon creating template (Edit Link[True] or Template Data[False])
-    PDFGENERATOR_API_OUTPUT_TYPE               - [base64]/url/I
-    PDFGENERATOR_API_FORMAT_TYPE               - [pdf]/zip/html
+    PDFGENERATOR_API_BASEPATH                  
+        - if need to override default basepath
+    
+    PDFGENERATOR_API_RETURN_EDIT_UPON_CREATE   
+        - [False]/True. Choose what is returned upon creating template (Edit Link[True] or Template Data[False])
+    
+    PDFGENERATOR_API_OUTPUT_TYPE
+        - [base64]/url/I
+    
+    PDFGENERATOR_API_FORMAT_TYPE               
+        - [pdf]/zip/html
 
 
 METHODS
